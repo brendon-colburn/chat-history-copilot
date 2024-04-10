@@ -21,8 +21,8 @@ If your copilot studio use case would benefit from better leverage/control of Ch
 
 # The Script
 There's a lot of ways you can demo this thing, but here's a good baseline of 5 questions to ask with tracing turned on:
-1. Get employee data and give a sum of annual salaries
-2. what is the average salary?
-3. what is pokemondb?
+1. Provide me a list of annual employee salaries 
+2. what is the sum of annual salaries?
+3. what is the average?
 4. what is the name of the popular electric type pokemon?
 5. summarize the conversation
